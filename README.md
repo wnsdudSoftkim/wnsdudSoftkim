@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 🙋‍♂️ </h3>
+<h1 align="center">Hi there 🙋‍♂️</h3>
 <h2 align="center"> 🖌 Tech Stacks 🖌 </h3>
 <h3 align="center"> Techs that I've used at least once </h5>
 <div display="flex" >
@@ -20,3 +20,10 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
   </p>
 </div>
+<br/>
+<br/>
+<h2 align="center">📞My Address📞</h2>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/cm_jun0/">
+  <img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@cmong">
+</p>
