@@ -1,8 +1,6 @@
-### Hi there 🙋‍♂️
-
-
-<h3 align="center"> 🖌 Tech Stacks 🖌 </h3>
-<h5 align="center"> Techs that I've used at least once </h5>
+<h1 align="center"> Hi there 🙋‍♂️ </h3>
+<h2 align="center"> 🖌 Tech Stacks 🖌 </h3>
+<h3 align="center"> Techs that I've used at least once </h5>
 <div display="flex" >
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white">
