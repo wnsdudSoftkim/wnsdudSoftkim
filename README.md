@@ -24,6 +24,10 @@
 <br/>
 <h2 align="center">📞My Address📞</h2>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link="https://www.instagram.com/cm_jun0/"">
-  <img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link="https://velog.io/@cmong"">
+  <a href="https://www.instagram.com/cm_jun0/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link="https://www.instagram.com/cm_jun0/"">
+  </a>
+   <a href="https://velog.io/@cmong">
+    <img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link="https://velog.io/@cmong"">
+  </a>
 </p>
