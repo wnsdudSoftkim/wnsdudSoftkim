@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white">
   </p>
 </div>
 <br/>
