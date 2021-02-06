@@ -32,3 +32,7 @@
     <img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link="https://velog.io/@cmong"">
   </a>
 </p>
+<h4 allign="center">Latest Posts😄</h4>
+<div>
+  <a href="https://objective-blackwell-219591.netlify.app/">React와 Django로 만드는 블로그-초기세팅</a>
+</div>
