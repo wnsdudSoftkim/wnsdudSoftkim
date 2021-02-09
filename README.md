@@ -33,8 +33,8 @@
   </a>
 </p>
 <h4 allign="center">Latest Posts😄</h4>
-<div>
-  <a href="https://objective-blackwell-219591.netlify.app/">내 맘대로 쓰는 Redux</a>
+<div >
+  <a href="https://objective-blackwell-219591.netlify.app/">내 맘대로 쓰는 Redux</a><br/>
   <a href="https://objective-blackwell-219591.netlify.app/">React와 Django로 만드는 블로그-초기세팅</a>
   
 </div>
