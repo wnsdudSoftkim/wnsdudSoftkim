@@ -24,7 +24,7 @@
     <p>AWS  </p>
   </li>
 </ul>
-<h4 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">Potpolio</a><br/></h4>
+<h4 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">🆕Portfolio</a><br/></h4>
 <h3 align="center">📞My Address📞</h3>
 <p align="center"> 
   <a href="https://www.instagram.com/cm_jun0/">
