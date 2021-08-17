@@ -1,11 +1,30 @@
 <h1 align="center">Hi there 🙋‍♂️</h1>
-<h4 allign="center">Latest Posts😄</h4>
+<h4 allign="center">😄Latest Posts</h4>
 <div >
   <h5>게시물이 보여지는데 10초의 delay현상이 나타날 수 있습니다.</h5>
   <a href="https://objective-blackwell-219591.netlify.app/">-2020년 회고록</a><br/>
   <a href="https://objective-blackwell-219591.netlify.app/">배포하기(AWS 비용이 겁난다면?)</a><br/>
   <a href="https://objective-blackwell-219591.netlify.app/">React와 Django로 만드는 블로그-초기세팅</a>
 </div>
+<h4 allign="center">✍Interest</h4>
+<ul>
+  <li>
+    <p>Spring </p>
+  </li>
+  <li>
+    <p>React </p>
+  </li>
+    <li>
+    <p>Node.js </p>
+  </li>
+  <li>
+    <p>MySQL </p>
+  </li>
+  <li>
+    <p>AWS  </p>
+  </li>
+</ul>
+<h4 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">Potpolio</a><br/></h4>
 <h3 align="center">📞My Address📞</h3>
 <p align="center"> 
   <a href="https://www.instagram.com/cm_jun0/">
