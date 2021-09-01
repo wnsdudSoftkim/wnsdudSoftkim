@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 🙋‍♂️</h1>
-<h3 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">🆕Portfolio</a><br/></h4>
-
+<h3 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">🆕Portfolio</a><br/></h3>
 <h4 allign="center">😄Latest Posts</h4>
 <div >
   <p>게시물이 보여지는데 10초의 delay현상이 나타날 수 있습니다.</p>
