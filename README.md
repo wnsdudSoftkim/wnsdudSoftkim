@@ -14,7 +14,7 @@
 - MySQL,MongoDB
 - IntelliJ, Visual Studio Code, Android Studio
 - Git, GitHub
-<h3 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">🆕Portfolio</a><br/></h3>
+<h2 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">🆕Portfolio</a><br/></h2>
 <h2 allign="center">😄Latest Posts</h2>
 <div >
   <p>게시물이 보여지는데 10초의 delay현상이 나타날 수 있습니다.</p>
