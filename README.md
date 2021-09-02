@@ -2,8 +2,7 @@
 
 [![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdudSoftkim)](https://github.com/wnsdudSoftkim/github-readme-stats)
 # About Me
-- 서비스 개발자, 기획자, 사용자들을 비롯해 다양한 요구사항을 빠르게 반영하려 노력해요
-- 새로운 기술을 접하고 코드에 적용시키는 것을 좋아해요🏅
+- 새로운 기술을 접하고 적용시키는 것을 좋아해요🏅
 - 프로젝트 진행 시 팀 내 분위기가 중요하다고 생각해요! 팀 내 분위기를 한층 밝게 유지하려 노력해요 😜
 # Tech Stack
 - Java, Python, JavaScript, HTML5, CSS, SCSS, Kotlin
