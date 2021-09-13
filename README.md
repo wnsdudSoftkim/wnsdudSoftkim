@@ -7,6 +7,7 @@
 # Tech Stack
 - Java, Python, JavaScript, HTML5, CSS, SCSS, Kotlin
 - Spring Boot, React, Django, Express.js
+- Redux 
 - AWS EC2, S3, RDS, Netlify, Heroku , Firebase, Code Deploy
 - MySQL,MongoDB
 - IntelliJ, Visual Studio Code, Android Studio
