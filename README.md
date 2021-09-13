@@ -8,7 +8,6 @@
 - Java, Python, JavaScript, HTML5, CSS, SCSS, Kotlin
 - Spring Boot, React, Django, Express.js
 - AWS EC2, S3, RDS, Netlify, Heroku , Firebase, Code Deploy
-- FireBase
 - MySQL,MongoDB
 - IntelliJ, Visual Studio Code, Android Studio
 - Git, GitHub
