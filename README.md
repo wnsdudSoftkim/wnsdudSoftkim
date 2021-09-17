@@ -4,14 +4,6 @@
 # About Me
 - 새로운 기술을 접하고 적용시키는 것을 좋아해요🏅
 - 프로젝트 진행 시 팀 내 분위기가 중요하다고 생각해요! 팀 내 분위기를 한층 밝게 유지하려 노력해요 😜
-# Tech Stack
-- Java, Python, JavaScript, HTML5, CSS, SCSS, Kotlin
-- Spring Boot, React, Django, Express.js
-- Redux 
-- AWS EC2, S3, RDS, Netlify, Heroku , Firebase, Code Deploy
-- MySQL,MongoDB
-- IntelliJ, Visual Studio Code, Android Studio
-- Git, GitHub
 <h2 allign="center"> <a href="https://wooden-stag-663.notion.site/Hi-I-am-JunYoung-Backend-Engineer-Web-Developer-57ce35399cf2499cb94f6d8aa1065d63">🆕Portfolio</a><br/></h2>
 <h2 allign="center">😄Latest Posts</h2>
 <div >
